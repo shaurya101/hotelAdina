@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hotelAdina/static/css/main.e3ab0dc7.css",
-    "main.js": "/hotelAdina/static/js/main.340f032b.js",
+    "main.js": "/hotelAdina/static/js/main.bddd0a0a.js",
     "static/media/1.jpg": "/hotelAdina/static/media/1.ebdcbd1e0b239b5e4ac1.jpg",
     "static/media/2.jpg": "/hotelAdina/static/media/2.151cff65fc629c3bc5b7.jpg",
     "static/media/3.jpg": "/hotelAdina/static/media/3.95edf8cfc905d640804a.jpg",
@@ -26,10 +26,10 @@
     "static/media/logo-white.svg": "/hotelAdina/static/media/logo-white.307df13a47406df0b2cdc799ae2e10b8.svg",
     "index.html": "/hotelAdina/index.html",
     "main.e3ab0dc7.css.map": "/hotelAdina/static/css/main.e3ab0dc7.css.map",
-    "main.340f032b.js.map": "/hotelAdina/static/js/main.340f032b.js.map"
+    "main.bddd0a0a.js.map": "/hotelAdina/static/js/main.bddd0a0a.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ab0dc7.css",
-    "static/js/main.340f032b.js"
+    "static/js/main.bddd0a0a.js"
   ]
 }
