@@ -68,7 +68,7 @@ const RoomDetails = () => {
             {/* reservation */}
               <div className='py-8 px-6 bg-accent/20 mb-12'>
                 <div className='flex flex-col space-y-4 mb-4'>
-                  <h3>Your Reservation</h3>
+                  <h3>Check Availability</h3>
                   <div className='h-[60px]'>
                     <CheckIn />
                   </div>
