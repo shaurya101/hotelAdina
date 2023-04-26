@@ -9,9 +9,9 @@ import Home from './pages/Home';
 import RoomDetails from './pages/RoomDetails';
 
 // react router
-import { createHashRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path: '/',
     element: <Home />
