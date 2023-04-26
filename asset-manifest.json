@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/hotelAdina/static/css/main.e3ab0dc7.css",
+    "main.js": "/hotelAdina/static/js/main.4ae14dd5.js",
+    "static/media/1.jpg": "/hotelAdina/static/media/1.ebdcbd1e0b239b5e4ac1.jpg",
+    "static/media/2.jpg": "/hotelAdina/static/media/2.151cff65fc629c3bc5b7.jpg",
+    "static/media/3.jpg": "/hotelAdina/static/media/3.95edf8cfc905d640804a.jpg",
+    "static/media/room.jpg": "/hotelAdina/static/media/room.95edf8cfc905d640804a.jpg",
+    "static/media/7-lg.png": "/hotelAdina/static/media/7-lg.261821b60bda00983a80.png",
+    "static/media/6-lg.png": "/hotelAdina/static/media/6-lg.3565d3a3ea2bd995df2e.png",
+    "static/media/4-lg.png": "/hotelAdina/static/media/4-lg.f819687b967e575feaf1.png",
+    "static/media/2-lg.png": "/hotelAdina/static/media/2-lg.cffbf7e52b980531d15c.png",
+    "static/media/1-lg.png": "/hotelAdina/static/media/1-lg.61cfcd9d4e23aac607ad.png",
+    "static/media/8-lg.png": "/hotelAdina/static/media/8-lg.51b44668c7e7fdb0fde5.png",
+    "static/media/3-lg.png": "/hotelAdina/static/media/3-lg.c18b62811005901f177c.png",
+    "static/media/5-lg.png": "/hotelAdina/static/media/5-lg.471c722176087c5134bd.png",
+    "static/media/7.png": "/hotelAdina/static/media/7.f44a0e9c97069fdd69b8.png",
+    "static/media/6.png": "/hotelAdina/static/media/6.ffb3344e2cb0b1cddba3.png",
+    "static/media/4.png": "/hotelAdina/static/media/4.06d2e8e9f7dde9c51714.png",
+    "static/media/1.png": "/hotelAdina/static/media/1.109453ab89c797c1ca63.png",
+    "static/media/2.png": "/hotelAdina/static/media/2.209ee0a12092b55ed2ad.png",
+    "static/media/8.png": "/hotelAdina/static/media/8.cd05417232ed0e97ff88.png",
+    "static/media/3.png": "/hotelAdina/static/media/3.9d7f1767699602029e64.png",
+    "static/media/5.png": "/hotelAdina/static/media/5.84f19999614e1d067a51.png",
+    "static/media/logo-dark.svg": "/hotelAdina/static/media/logo-dark.916e25fce0a080712529b7129e2771a4.svg",
+    "static/media/logo-white.svg": "/hotelAdina/static/media/logo-white.307df13a47406df0b2cdc799ae2e10b8.svg",
+    "index.html": "/hotelAdina/index.html",
+    "main.e3ab0dc7.css.map": "/hotelAdina/static/css/main.e3ab0dc7.css.map",
+    "main.4ae14dd5.js.map": "/hotelAdina/static/js/main.4ae14dd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ab0dc7.css",
+    "static/js/main.4ae14dd5.js"
+  ]
+}
